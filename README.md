@@ -13,10 +13,10 @@
 ### Github Stats
  <p align="center">
   <a href="https://github.com/fuuto4007"><span>
-    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=lee0907&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lee0907&theme=radical" />
+    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=fuuto4007&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fuuto4007&theme=radical" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lee0907&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lee0907&theme=dracula" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fuuto4007&theme=dracula" />
     </span></a>
 </p>
 <hr>
