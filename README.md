@@ -1,4 +1,4 @@
-### Hey Everyone! I'm [Lee a.k.a Lyte](https://github.com/Lee0907)
+### Hello Fellas! I'm [fuuto](https://github.com/fuuto4007)
 <hr>
 <p align="center"><h4 align="center"><samp> About Me </samp></h4></p>
 <div>
